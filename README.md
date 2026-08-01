@@ -470,6 +470,9 @@ GDSII Generation
 
 - OpenLane
 - OpenROAD
+- Verilator
+- Icarus Verilog
+- GTKWave
 - Yosys
 - Magic
 - KLayout
